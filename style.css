@@ -41,7 +41,8 @@ nav{
     text-align: center;
 
     background-image: 
-        linear-gradient(rgba(30, 28, 25, 0.35), rgba (30, 28, 25, 0.35)),url("images/interior.jpeg"),
+        linear-gradient(rgba(30, 28, 25, 0.35), rgba (30, 28, 25, 0.35));
+    background-image:
         url("images/interior.jpeg");
 
     background-size: cover;
